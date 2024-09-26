@@ -134,6 +134,12 @@
 
   .text{
     border: 1px solid silver;
+    transition: all 0.4s ease;
+    cursor: pointer;
+  }
+
+  .text:hover{
+    transform: translateY(-7px);
   }
 
 
