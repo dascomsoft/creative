@@ -25,7 +25,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 200px 0 200px;
+    padding:100px 0 100px;
     color: #fff;
     -o-object-fit: cover;
        object-fit: cover;
@@ -60,7 +60,7 @@
 
   .section-detail{
     background-color: #e4e4e4;
-    padding:150px 0 100px;
+    padding:50px 0 50px;
  
   }
 
@@ -106,7 +106,7 @@
 
   /*clients content*/
   .section-client{
-    padding:130px 0 100px;
+    padding:50px 0 50px;
     background-color: rgb(249, 247, 252);
   }
 
@@ -145,7 +145,7 @@
 
   /*realisations content*/
   .section-realisations{
-    padding:150px 0 100px;
+    padding:50px 0 50px;
     background-color: rgb(249, 247, 252);
   }
 
@@ -185,7 +185,7 @@
   /*services*/
 
   .section-services{
-    padding:150px 0 100px;
+    padding:50px 0 50px;
   }
 
   .service-content{
